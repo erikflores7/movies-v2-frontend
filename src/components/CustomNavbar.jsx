@@ -18,7 +18,7 @@ export default class CustomNavbar extends Component{
                     </NavDropdown>
                 </Nav>
                 <Form inline>
-                    <FormControl type={"text"} placeholder={"Find Movies..."} classname={"mr-sm-2"}/>
+                    <FormControl type={"text"} placeholder={"Find Movies..."} className={"mr-sm-2"}/>
                     <Button type={"submit"}>Search</Button>
                 </Form>
             </Navbar>
